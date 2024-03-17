@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 20.0,
+  "group": "scrumpy",
+  "ingredient": {
+    "item": "my_mod:scottish_flashback"
+  },
+  "result": "my_mod:scrumpy"
+}

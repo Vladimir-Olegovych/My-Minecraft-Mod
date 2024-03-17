@@ -1,0 +1,11 @@
+{
+  "item.my_mod.scrumpy": "Demo's scrumpy",
+  "item.my_mod.scottish_flashback": "Scottish Flashback",
+  "block.my_mod.scrumpy_block": "Demo's scrumpy block",
+  "block.my_mod.scottish_flashback_block": "Scottish Flashback block",
+  "creativetab.my_mod_tab": "MyMod Craft",
+  "key.my_mod.example_key": "Example Key",
+  "key.my_mod.example_packet_key": "Example Packet Key",
+  "key.categories.my_mod": "My Mod",
+  "message.my_mod.example_key_pressed": "Example Key was pressed!"
+}

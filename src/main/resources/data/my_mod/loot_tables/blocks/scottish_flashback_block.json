@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.8,
+      "conditions": [
+        {"condition":  "minecraft:survives_explosion"}
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "my_mod:scottish_flashback_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "my_mod:blocks/scrumpy_block"
+}
